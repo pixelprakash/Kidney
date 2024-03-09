@@ -2,8 +2,8 @@ opencv-python
 numpy
 matplotlib
 tensorflow
-gass
 keras
 fastapi
 uvicorn
 jinja2
+python-multipart
